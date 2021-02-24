@@ -1,5 +1,5 @@
 const help = (prefix) => {
-	return `💎 Comandos do MARKOS bot2 💎  
+	return `💎 Comandos do Sic bot 💎  
 🔰 Principais Comandos 🔰 
 
 Comando: '${prefix}sticker' ou '${prefix}stiker'
@@ -25,7 +25,7 @@ Função: imagens aleatórias de meme [english]
 Comando: '${prefix}memeindo'
 Função: imagens aleatórias de meme [indo]
 
-🔰 Comandos +18 🔰
+🔞 Comandos +18 🔞
 
 Comando: '${prefix}loli'
 Função: imagens aleatórias de loli
@@ -194,8 +194,7 @@ Obs: Este comando pode ser usado se você for um administrador do grupo
 
 🔰 Apoie o criador do bot a adicionar comandos novos 🥺 🔰
 
-mercado pago : mwythor@gmail.com (só doar qqr quantia nesse gmail já ajuda)
-
+PicPay : @davidsx (é pra comprar alimento, cachaça)
 `
 }
 
