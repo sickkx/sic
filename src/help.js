@@ -194,6 +194,7 @@ Obs: Este comando pode ser usado se você for um administrador do grupo
 
 🔰 Apoie o criador do bot a adicionar comandos novos 🥺 🔰
 
+Instagram : @kkyutx
 PicPay : @davidsx (é pra comprar alimento, cachaça)
 `
 }
