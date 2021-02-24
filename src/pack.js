@@ -1,13 +1,13 @@
 const pack = (prefix) => {
     return `PASTA DO MEGA COM DIVERSOS VIDEOS E FOTOS PORN:
 
-🔰 FOTOS DE HENTAI 720MB: https://encurta.eu/YU7k 🔰
+🔰 FOTOS DE HENTAI 720MB: https://mega.nz/folder/u1YD3ACK#gWqDXIAOp1nzXgEXJOiS5g 🔰
 
-🔰 PRINCESS STARLING(ONLY FANS)8.36GB: https://encurta.eu/cBiTfDBd 🔰
+🔰 PRINCESS STARLING(ONLY FANS)8.36GB: https://mega.nz/folder/m0YHyK4Y#G8JPdIl6SKx5wZT1GfOKWw 🔰
 
-🔰 ELLES CLUB 28.68GB: https://encurta.eu/ESTyP 🔰
+🔰 ELLES CLUB 28.68GB: https://mega.nz/folder/C5oCXDDD#rrdhJPt9C3d2a0fJHOfteg 🔰
 
-🔰 COCONUTKITTY(ONLY FANS)7.69GB: https://encurta.eu/U2I5🔰
+🔰 COCONUTKITTY(ONLY FANS)7.69GB: https://mega.nz/folder/T55SyJII#Ppu7FlWm2iLSFSNjW_ky0Q🔰
 
 🔰 Belle delphine : https://photos.app.goo.gl/Jr4Qk1dFSJepPdRc7 🔰
 
